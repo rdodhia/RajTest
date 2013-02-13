@@ -14,3 +14,7 @@ to commit file to repo
 	
 to check log
 	git log
+	
+to see which repos you have linked
+	git remote -v
+	

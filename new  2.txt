@@ -18,3 +18,4 @@ to check log
 to see which repos you have linked
 	git remote -v
 	
+git pull is combination of git fetch and git merge commands.

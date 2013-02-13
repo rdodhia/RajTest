@@ -1,0 +1,16 @@
+GIT HUB
+
+to create GIT Repository
+	 git init
+	 
+to add files to repo
+	git add
+	
+to check status of repo
+	git status
+	
+to commit file to repo
+	git commit -m "Initial project checkin"
+	
+to check log
+	git log
